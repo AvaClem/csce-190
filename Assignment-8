@@ -1,1 +1,11 @@
+System Setup:
+* Inputs and outputs
+* Metrics
 
+Evaluation:
+* Functional
+* Non-functional
+
+Test plans:
+* Test cases have a sample of inputs and expected outpits
+* Q: How many tescases to create
